@@ -1,0 +1,7 @@
+package message
+
+object OutcomeData {
+
+  
+  
+}

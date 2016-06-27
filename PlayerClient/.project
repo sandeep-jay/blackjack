@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PlayerClient</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.scala-ide.sdt.core.scalabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.scala-ide.sdt.core.scalanature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>BJT.jpg</name>
+			<type>1</type>
+			<location>C:/EclipseWorkspace2/PlayerClient/BJT.jpg</location>
+		</link>
+		<link>
+			<name>back-red-75-1-1.jpg</name>
+			<type>1</type>
+			<location>C:/EclipseWorkspace2/PlayerClient/back-red-75-1-1.jpg</location>
+		</link>
+		<link>
+			<name>clubs-a-75-1.jpg</name>
+			<type>1</type>
+			<location>C:/EclipseWorkspace2/PlayerClient/clubs-a-75-1.jpg</location>
+		</link>
+		<link>
+			<name>clubs-j-75-1.jpg</name>
+			<type>1</type>
+			<location>C:/EclipseWorkspace2/PlayerClient/clubs-j-75-1.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
